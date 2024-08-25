@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EuroVan interior LED controller")(type "KiCad")(uri "${KIPRJMOD}/EuroVan interior LED controller.kicad_sym")(options "")(descr ""))
+)
