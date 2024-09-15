@@ -919,7 +919,7 @@
 		(descr "https://www.tme.eu/en/Document/3b48dbe2b9714a62652c97b08fcd464b/PTF78.pdf")
 		(tags "Fuseholder horizontal open 5x20 Stelvio-Kontek PTF/78")
 		(property "Reference" "F1"
-			(at 11.25 -6 360)
+			(at 11.25 -6 0)
 			(layer "F.SilkS")
 			(uuid "8f21db89-2e27-41c7-9c20-73440fa88c05")
 			(effects
@@ -930,7 +930,7 @@
 			)
 		)
 		(property "Value" "2A Fuse"
-			(at 11.3 6 360)
+			(at 11.3 6 0)
 			(layer "F.Fab")
 			(uuid "f21e2233-37c8-4385-9f56-de182964ebcb")
 			(effects
@@ -1325,7 +1325,7 @@
 			(uuid "a0868f56-cbff-40dc-a406-61787c7bef24")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 11.25 4 360)
+			(at 11.25 4 0)
 			(layer "F.Fab")
 			(uuid "83ffeb1b-b02f-4512-baca-66ae193f2444")
 			(effects
@@ -1651,7 +1651,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R1"
-			(at 5.08 -2.37 360)
+			(at 5.08 -2.37 0)
 			(layer "F.SilkS")
 			(uuid "c4cbb9cb-0bc2-4880-86a2-47c0c77303d2")
 			(effects
@@ -1662,7 +1662,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 0.91 -2.25 360)
+			(at 0.91 -2.25 0)
 			(layer "F.Fab")
 			(uuid "3cfcb562-5fb7-4f5d-a585-c2e1a68143e3")
 			(effects
@@ -1877,7 +1877,7 @@
 			(uuid "bf5ab439-18da-4355-a854-3817674f2142")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.08 0 360)
+			(at 5.08 0 0)
 			(layer "F.Fab")
 			(uuid "b4f5516e-0ad4-415e-910c-814083b668ce")
 			(effects
@@ -2425,7 +2425,7 @@
 		(descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
 		(tags "LED diameter 5.0mm 2 pins")
 		(property "Reference" "D1"
-			(at 5.04 0 360)
+			(at 5.04 0 0)
 			(layer "F.SilkS")
 			(uuid "551f3899-8ce0-4fb0-bc4c-e44735481834")
 			(effects
